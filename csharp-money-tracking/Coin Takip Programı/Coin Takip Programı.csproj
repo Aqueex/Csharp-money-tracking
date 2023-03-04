@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C3CE3024-CC3B-41A4-A04F-24F0CA1A5736}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Coin_Takip_Programı</RootNamespace>
+    <AssemblyName>Coin_Takip_Programı</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ayarlarcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ayarlarcs.Designer.cs">
+      <DependentUpon>ayarlarcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connetstring.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kayıtform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kayıtform.Designer.cs">
+      <DependentUpon>Kayıtform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kayıtlıveriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kayıtlıveriler.Designer.cs">
+      <DependentUpon>kayıtlıveriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Method.cs" />
+    <Compile Include="paralistesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paralistesi.Designer.cs">
+      <DependentUpon>paralistesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\güvenlik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resources\güvenlik.Designer.cs">
+      <DependentUpon>güvenlik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İntro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İntro.Designer.cs">
+      <DependentUpon>İntro.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ayarlarcs.resx">
+      <DependentUpon>ayarlarcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kayıtform.resx">
+      <DependentUpon>Kayıtform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kayıtlıveriler.resx">
+      <DependentUpon>kayıtlıveriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paralistesi.resx">
+      <DependentUpon>paralistesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\güvenlik.resx">
+      <DependentUpon>güvenlik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İntro.resx">
+      <DependentUpon>İntro.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bixi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kablo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaperflare.com_wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\346769.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kilit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secure-icon-png-4980.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solanba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tether.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardano.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cardano1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tether1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\binance1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solanba1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eth1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitcoin.pg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dash1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xrp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\euro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avrupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\çin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ing2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %285%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-account-settings-58 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-account-settings-58 %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kalkan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kindpng_691619.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-change-password-58.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-account-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo2.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

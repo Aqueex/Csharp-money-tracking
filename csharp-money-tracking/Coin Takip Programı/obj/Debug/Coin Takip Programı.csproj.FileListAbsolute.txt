@@ -1,0 +1,368 @@
+D:\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+D:\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+D:\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+D:\Coin Takip Programı\Coin Takip Programı\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Coin Takip Programı\Coin Takip Programı\bin\Debug\Guna.UI2.dll
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+D:\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\bin\Debug\Guna.UI2.dll
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\demir\OneDrive\Desktop\Coin Takip Programı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\demir\OneDrive\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\demir\OneDrive\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\demir\OneDrive\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.AssemblyReference.cache
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.cache
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CopyComplete
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\azcak\Desktop\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\Pc-11\Desktop\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+D:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+H:\13.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+H:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+H:\13.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+H:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.AssemblyReference.cache
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe.config
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.cache
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CoreCompileInputs.cache
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CopyComplete
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+E:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+D:\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\Pc-11\Desktop\16.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+D:\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+D:\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+D:\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\demir\OneDrive\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.AssemblyReference.cache
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe.config
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.cache
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CopyComplete
+C:\Users\azcak\Desktop\17.05.2022\coin proje tasarımı\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.kayıtlıveriler.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\MySql.Data.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.AssemblyReference.cache
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe.config
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.kayıtlıveriler.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.cache
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CoreCompileInputs.cache
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.CopyComplete
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\azcak\Desktop\17.05.2022\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin Takip Programı.exe.config
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.kayıtlıveriler.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.exe
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.pdb
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pc-11\Desktop\21.05.2022\Coin Takip Programı\bin\Debug\Guna.UI2.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\ZstdNet.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\System.Memory.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\System.Buffers.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\MySql.Data.xml
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.kayıtlıveriler.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Guna.UI2.dll
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.exe.config
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.exe
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.pdb
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin_Takip_Programı.exe.config
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.exe
+C:\Users\Pc-11\Desktop\23.05.2022\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.pdb
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.exe.config
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.exe
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.pdb
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.exe
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Coin_Takip_Programı.pdb
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Bunifu_UI_v1.52.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Guna.UI2.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Google.Protobuf.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\ZstdNet.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\BouncyCastle.Crypto.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\Ubiety.Dns.Core.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\System.Memory.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\System.Buffers.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\K4os.Compression.LZ4.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\K4os.Hash.xxHash.dll
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\bin\Debug\MySql.Data.xml
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin Takip Programı.csprojResolveAssemblyReference.cache
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.Coin_Takip_Programı.exe.config
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.ayarlarcs.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Form1.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Kayıtform.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.kayıtlıveriler.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.paralistesi.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Properties.Resources.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.Resources.güvenlik.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin_Takip_Programı.İntro.resources
+D:\SON AMKKKKKKKKKKKKKKKKK\Coin Takip Programı\obj\Debug\Coin Takip Programı.csproj.GenerateResource.Cache
